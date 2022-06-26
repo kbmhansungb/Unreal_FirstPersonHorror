@@ -1,0 +1,3 @@
+[submodule "Plugins/FirstPersonHorror"]
+	path = Plugins/FirstPersonHorror
+	url = https://github.com/kbmhansungb/UnrealPlugin_FirstPersonHorror.git
